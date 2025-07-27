@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+.env
+.env.*
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.DS_Store
+*.log
+coverage/
+dist/
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak
+*.cache
+*.lock
+# OS generated
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# Mac
+.DS_Store
+# Test and coverage
+coverage/
+.nyc_output/
+# Misc
+*.tgz
+*.tar.gz
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.pyc
+__pycache__/
